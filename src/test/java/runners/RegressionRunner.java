@@ -22,7 +22,8 @@ import org.junit.runner.RunWith;
         dryRun = false,
         tags = "@regression",
         // pretty keyword prints all the steps in console which we execute
-        plugin = {"pretty","html:target/cucumber.html","json:target/cucumber.json"}
+        plugin = {"pretty","html:target/cucumber.html","json:target/cucumber.json",
+                "rerun:target/failed.txt"}
 )
 public class RegressionRunner {
 }

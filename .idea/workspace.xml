@@ -4,54 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23b57e5e-642e-45dd-b7c9-e8eb102388b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employee from feature file 2024-06-25-19-12-30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employee from feature file 2024-06-25-19-15-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-00-57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-10-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-32-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-46-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/API/HardcodedExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/APISteps/APIStepsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AddEmployeePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EmployeeSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/FailedRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ReviewRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/AddEmployeeSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/EmployeeSearchSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/ReviewSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIPayloadConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DBUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/PageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/APIWorkflow.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddEmployee.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/EmployeeSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Review.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/batch19excel.xlsx" afterDir="false" />
+    <list default="true" id="23b57e5e-642e-45dd-b7c9-e8eb102388b7" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Valid admin login 2024-06-07-11-33-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/failed/Valid admin login 2024-06-07-11-34-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding an employee in HRMS system 2024-06-04-16-19-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding an employee in HRMS system 2024-06-04-16-37-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employee from feature file 2024-06-04-16-20-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employees using data driven testing 2024-06-04-16-20-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employees using data driven testing 2024-06-04-16-21-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employees using data driven testing 2024-06-04-16-21-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding multiple employees using data table 2024-06-04-16-22-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Search employee by id 2024-06-04-16-24-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Search employee by name 2024-06-04-16-22-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login 2024-06-04-16-23-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login 2024-06-04-16-24-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login 2024-06-07-11-35-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login 2024-06-07-11-37-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-04-16-23-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-04-16-24-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/login multiple times 2024-06-04-16-23-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/login multiple times 2024-06-04-16-23-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/login multiple times 2024-06-04-16-23-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/login multiple times 2024-06-04-16-24-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/login multiple times 2024-06-04-16-24-35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/login multiple times 2024-06-04-16-24-42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/FailedRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/FailedRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/RegressionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/SmokeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,10 +222,21 @@
       <option name="presentableId" value="Default" />
       <updated>1716733830336</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1720969205980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720969205980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
