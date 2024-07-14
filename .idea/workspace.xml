@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23b57e5e-642e-45dd-b7c9-e8eb102388b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employee from feature file 2024-06-25-19-12-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Adding employee from feature file 2024-06-25-19-15-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-00-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-10-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-32-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/passed/Valid admin login using feature file 2024-06-07-13-46-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/API/HardcodedExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APISteps/APIStepsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AddEmployeePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EmployeeSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/FailedRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ReviewRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/AddEmployeeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/EmployeeSearchSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/ReviewSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIPayloadConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/CommonMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/PageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/APIWorkflow.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddEmployee.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/EmployeeSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Review.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/batch19excel.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2h0bEKlMtvN97HxKHesyonGwpgT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.DBUtils.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: APIWorkflow.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Search employee by id.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Valid admin login.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HardcodedExamples.createEmployee.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.HardcodedExamples.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RunnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.HRMSBatch19 [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fosti/IdeaProjects/HRMSBatch19/src/test/resources/features&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/fosti/IdeaProjects/HRMSBatch19/src/main/java/org/syntax/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fosti\IdeaProjects\HRMSBatch19\src\test\resources\features" />
+      <recent name="C:\Users\fosti\IdeaProjects\HRMSBatch19\src\test\java\utils" />
+      <recent name="C:\Users\fosti\IdeaProjects\HRMSBatch19" />
+      <recent name="C:\Users\fosti\IdeaProjects\HRMSBatch19\src\test\java\runners" />
+      <recent name="C:\Users\fosti\IdeaProjects\HRMSBatch19\src\test\resources\testdata" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="steps" />
+      <recent name="runners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Search employee by id">
+    <configuration name="Scenario: Search employee by id" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/EmployeeSearch.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="HRMSBatch19" />
+      <option name="NAME_FILTER" value="^Search employee by id$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Search employee by id$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search employee by id" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Valid admin login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="HRMSBatch19" />
+      <option name="NAME_FILTER" value="^Valid admin login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Valid admin login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Valid admin login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardcodedExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API" />
+      <option name="MAIN_CLASS_NAME" value="API.HardcodedExamples" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRMSBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunnerClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HRMSBatch19 [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HardcodedExamples" />
+        <item itemvalue="Maven.HRMSBatch19 [test]" />
+        <item itemvalue="JUnit.RunnerClass" />
+        <item itemvalue="Cucumber Java.Scenario: Search employee by id" />
+        <item itemvalue="Cucumber Java.Scenario: Valid admin login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-15.0.2-corretto-15.0.2-4caba194b151-9bc2d75a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b57e5e-642e-45dd-b7c9-e8eb102388b7" name="Changes" comment="" />
+      <created>1716733830336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716733830336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/syntax/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
